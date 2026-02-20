@@ -7,7 +7,6 @@ Fractals included:
 ## Features
 * Zoom in/out buttons – the view window and iteration density adjust automatically.
 * Reset view to return to the default framing.
-* Select between Mandelbrot and Julia.
 
 ## Use
 ```bash
